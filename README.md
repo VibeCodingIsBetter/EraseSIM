@@ -39,7 +39,7 @@ python main.py
 *Replace `main.py` with the actual name of your script file.*
 
 ### 📄 License
-This project is licensed under the MIT License - feel free to use, modify, and share!
+This project is licensed under the MIT-0 License - feel free to use, modify, and share!
 
 ---
 
@@ -72,4 +72,4 @@ python main.py
 *Замените `main.py` на имя вашего файла со скриптом.*
 
 ### 📄 Лицензия
-Этот проект распространяется под лицензией MIT — вы можете свободно использовать, изменять и делиться им!
+Этот проект распространяется под лицензией MIT-0 — вы можете свободно использовать, изменять и делиться им!
